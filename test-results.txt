@@ -1,0 +1,16 @@
+test_known_unit_and_balance_faults_are_detected (test_checks.WorkflowTests.test_known_unit_and_balance_faults_are_detected) ... ok
+test_nonfinite_or_nonnumeric_values_are_rejected (test_checks.WorkflowTests.test_nonfinite_or_nonnumeric_values_are_rejected) ... ok
+test_outside_tolerance_is_rejected (test_checks.WorkflowTests.test_outside_tolerance_is_rejected) ... ok
+test_physical_bounds_alone_do_not_validate_units (test_checks.WorkflowTests.test_physical_bounds_alone_do_not_validate_units) ... ok
+test_reference_candidates_pass_all_checks (test_checks.WorkflowTests.test_reference_candidates_pass_all_checks) ... ok
+test_invalid_json_does_not_break_next_request (test_server.AdapterTests.test_invalid_json_does_not_break_next_request) ... ok
+test_no_tools_before_initialized_notification (test_server.AdapterTests.test_no_tools_before_initialized_notification) ... ok
+test_rejects_invalid_values_and_unexpected_fields (test_server.AdapterTests.test_rejects_invalid_values_and_unexpected_fields) ... ok
+test_transport_negotiation_and_scientific_failure (test_server.AdapterTests.test_transport_negotiation_and_scientific_failure) ... ok
+test_unknown_case_and_unknown_tool_are_rejected (test_server.AdapterTests.test_unknown_case_and_unknown_tool_are_rejected) ... ok
+test_version_negotiation_has_explicit_fallback (test_server.AdapterTests.test_version_negotiation_has_explicit_fallback) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.080s
+
+OK
